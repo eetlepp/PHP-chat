@@ -1,4 +1,4 @@
-Yksinkertainen back-end php chat.
+Yksinkertainen php chat.
 Käyttää jQuery.
 Tarvitsee palvelimen toimiakseen.
 
